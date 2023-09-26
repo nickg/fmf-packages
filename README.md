@@ -1,2 +1,6 @@
 # fmf-packages
-Mirror of Free Model Foundary common packages
+
+Mirror of the Free Model Foundary common packages available here:
+
+https://freemodelfoundry.com/packages.php
+
